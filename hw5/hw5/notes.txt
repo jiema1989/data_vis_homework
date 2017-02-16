@@ -1,0 +1,8 @@
+Readme:
+
+	Both the notes (explanation) and sketches of designs are include in the `design.pdf' file. 
+
+Thanks!
+
+Best,
+Jie
